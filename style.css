@@ -6,9 +6,19 @@
     flex-wrap: wrap;
 }
 
-article{
+main{
     background-color: #1da09932;
     padding: 20px;
+}
+article{
+   align-content: space-around;
+   justify-content: center;
+   align-items: center;
+   display: flex;
+   flex-wrap: nowrap;
+   padding: 20px;
+   gap: 20px;
+
 }
 
 #Titulo{
@@ -24,7 +34,6 @@ article{
 section{
     background-color: whitesmoke;
     color: #21193C;
-    box-sizing: content-box;
     border-radius: 10px;
     display: inline-block;
     text-align: center;
