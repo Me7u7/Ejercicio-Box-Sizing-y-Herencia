@@ -2,7 +2,6 @@
     font-family: "Mulish", sans-serif;
     font-optical-sizing: auto;
     font-style: normal;
-    flex-wrap: wrap;
 }
 
 main{
@@ -12,6 +11,8 @@ main{
     align-items: flex-start;
     margin: auto;
     justify-items: center;
+    flex-wrap: wrap;
+
     
 }
 article {
