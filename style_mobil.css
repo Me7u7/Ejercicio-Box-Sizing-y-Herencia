@@ -2,6 +2,7 @@
     font-family: "Mulish", sans-serif;
     font-optical-sizing: auto;
     font-style: normal;
+    flex-wrap: wrap;
 }
 
 main{
@@ -11,10 +12,8 @@ main{
     align-items: flex-start;
     margin: auto;
     justify-items: center;
-    flex-wrap: wrap;
-
-    
 }
+
 article {
     align-content: space-around;
     justify-content: center;
@@ -23,6 +22,7 @@ article {
     padding: 20px;
     gap: 20px;
 }
+
 
 #Titulo{
     font-size: 40px;
