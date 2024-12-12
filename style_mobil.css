@@ -1,0 +1,49 @@
+*{
+    font-family: "Mulish", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+main{
+    background-color: #1da09932;
+    padding: 20px;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: auto;
+    justify-items: center;
+    
+}
+article {
+    align-content:flex-start;
+    padding: 10px;
+    gap: 10px;
+
+  }
+
+#Titulo{
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+    width: 100%; 
+    margin: auto;
+    color: #21193C;
+    gap: 10px;
+}
+
+section {
+    background-color: whitesmoke;
+    color: #21193C;
+    border-radius: 10px;
+    text-align: center;
+    margin: 0 auto;
+
+  }
+
+h2{
+    font-weight: 250;
+}
+
+p{
+    font-weight: 200;
+}
